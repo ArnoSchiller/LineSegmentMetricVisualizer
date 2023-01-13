@@ -1,6 +1,6 @@
 import numpy as np
 
-from lineSegmentMetric import LineSegmentMetric
+from metrics.lineSegmentMetric import LineSegmentMetric
 
 
 class SumSquaredError(LineSegmentMetric):
